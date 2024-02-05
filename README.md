@@ -1,4 +1,4 @@
-Este proyecto es una aplicación web sencilla que implementaa la autencticacion en una Aplicacion React con Firebase.  
+Este proyecto es una aplicación web sencilla que implementa la autenticacion en una Aplicacion React con Firebase.  
 
 Para Configuracion en Firebase:
 -Ir a Firebase Console
