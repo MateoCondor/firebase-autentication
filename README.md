@@ -17,10 +17,11 @@ Una vez intalado copie sus claves de configuracion de su proyecto en la consola 
 
 Luego, instala las dependencias con npm:
 
-instalación npm
+npm install
+
 Finalmente, inicia el servidor de desarrollo:
 
-npm ejecutar desarrollador
+npm ruv dev 
+
 Ahora deberías poder ver la aplicación en http://localhost:[port] .
 
-Uso Para buscar Pokémon, simplemente introduce tu término de búsqueda en el campo de búsqueda y presiona Enter. Los resultados de la búsqueda se mostrarán en una lista y al seleccionar un pokemon se mostrarán sus estadísticas, cadena de evolución y una pequeña descripción.
